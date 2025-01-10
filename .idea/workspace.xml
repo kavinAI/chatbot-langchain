@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1805260b-6ba1-497e-9264-45277cc8015f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/chatbot-langchain.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1805260b-6ba1-497e-9264-45277cc8015f" name="Changes" comment="Langchain RAG Chatbot">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +33,11 @@
     "settings.editor.selected.configurable": "reference.settingsDialog.application.dockerMachine"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\chatbot-langchain" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name=".env" type="PythonConfigurationType" factoryName="Python">
       <module name="chatbot-langchain" />
@@ -94,7 +93,28 @@
       <option name="presentableId" value="Default" />
       <updated>1736405708035</updated>
     </task>
+    <task id="LOCAL-00001" summary="Langchain RAG Chatbot">
+      <option name="closed" value="true" />
+      <created>1736472859486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736472859486</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Langchain RAG Chatbot">
+      <option name="closed" value="true" />
+      <created>1736472874315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736472874315</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Langchain RAG Chatbot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Langchain RAG Chatbot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
