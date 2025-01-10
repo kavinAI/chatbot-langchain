@@ -1,1 +1,1 @@
-It is a Healthcare chatbot build on RAG, OpenAI and Langchain.
+It is a Healthcare chatbot based on RAG, OpenAI and Langchain.
